@@ -1,5 +1,5 @@
 __pycache__*
-*.m
+*.m 
 .idea/*
 data/*
 fingerprint_removal/ae_models/ae32/*
